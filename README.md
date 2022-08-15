@@ -1,4 +1,4 @@
-# InformatiCupPy
+# InformatiCup
 *Dieses Dokument gilt als Handbuch dieser Anwendung und ist deshalb zusätzlich in pdf Form beiliegend.*
 
 ---
